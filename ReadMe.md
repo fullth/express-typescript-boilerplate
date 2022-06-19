@@ -1,4 +1,4 @@
-### 초기설정
+### 패키지 설치
 
 ``` shell
 npm i express typescript ts-node nodemon @types/node @types/express --save
